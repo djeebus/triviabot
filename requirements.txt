@@ -1,0 +1,7 @@
+boto
+click
+PyYAML
+pyzmq
+redis
+requests
+ujson
